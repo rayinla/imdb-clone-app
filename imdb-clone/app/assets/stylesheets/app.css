@@ -1,0 +1,60 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  max-width: 10000px;
+  background-color: black
+}
+
+#wrapper{
+
+  background-color: black
+}
+
+#container{
+  width: 1000px;
+  background-color: white;
+  width: 100%;
+  height: 680px;
+
+}
+
+
+#movie-container{
+  background-color: grey;
+  width: 40%;
+  height: 40%;
+  border: 1px ;
+  padding: 25px;
+  margin: 25px;
+
+}
+
+header#top-nav{
+
+
+  height: 150px;
+
+}
+#brand{
+
+  color: white;
+}
+
+
+
+
+
+
+
+
+form#search-form{
+
+  position: fixed;
+  left: 50%;
+
+}
+
+#search{
+  width: 400px;
+  height: 20px;
+}
+
